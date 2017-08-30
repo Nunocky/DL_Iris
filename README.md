@@ -11,7 +11,7 @@ https://archive.ics.uci.edu/ml/datasets/iris
     7.1,3.0,5.9,2.1,Iris-virginica
     ...
 
-これを数字に置き換える
+これを数字に置き換えている
 
     4.9,3.0,1.4,0.2,0
     6.4,3.2,4.5,1.5,1
@@ -23,3 +23,5 @@ https://archive.ics.uci.edu/ml/datasets/iris
     python3 ./learn.py
 
 ## 検証
+
+    python3 ./check.py
